@@ -5,7 +5,7 @@ METODOLOGIA BEM<br>
 GRID<br>
 FLEX<br>
 RESPONSIVE <br><br>
-Presenta:
+Presenta:<br>
 Bedoya Ramos Alejandro<br>
 Elles Ramos Doris<br>
 Sánchez Castillo Felipe<br>
